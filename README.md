@@ -12,3 +12,4 @@ Prerequisites for these labs
 * [JQ JSON parser](https://stedolan.github.io/jq/download/)  
 * [Install the latest Node JS for your platform (v6.2.0 at the time of writing)](https://nodejs.org/en/)
 * [Chocolatey](https://chocolatey.org/install)
+
